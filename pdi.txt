@@ -1,0 +1,76 @@
+5/Alfama/Zona histórica/Sem horário/0/0/1002
+19/AquaRio/Aquário Marinho/10h-17h/0/0/1005
+59/Bastião dos Pescadores/Fortaleza com torres e vista da cidade/9h-23h/0/0/1016
+41/Basílica de São Pedro/A maior basílica do cristianismo/8h-19h/1/0/1011
+2/Biblioteca Joanina/Biblioteca do seculo XVIII/Todos os dias 10h-17h/1/0/1001
+73/Bon Vivant/Bar bastante Popular entre turistas/18h-4h/0/0/1021
+48/Cabo de São Vicente/Farol e falésia/0h-24h/0/0/1013
+8/Capela de São Pedro/Capela dedicada a Sao Pedro, com traços característicos de arquitetura moçárabe ibérica/10h-18h/0/0/1003
+56/Casa Loma/Castelo com jardins por temporada/9h-17h/1/0/1015
+32/Casa de Ferro/Casa do governador geral no século 19/9h-17h/0/0/1009
+57/Castelo de Buda/Castelo com exposições de arte húngara/9h-17h/0/0/1016
+62/Catedral de Notre-Dame de Paris/Icônica igreja gótica com associação literária/Temporariamente Fechada/0/0/1017
+30/Catedral de São Basílio/Museu numa antiga igreja ortodoxa/10h-17h/0/0/1008
+40/Coliseu/Arena de gladiadores da Roma Antiga/8h-19h/1/0/1011
+20/Copacabana/Famosa praia/0h-24h/0/0/1005
+17/Cristo Redentor/Estátua art déco que retrata Jesus Cristo/8h-19h/0/0/1005
+46/Englischer Garten/Enorme parque urbano com esplanada/6h-23h/0/0/1012
+43/Fontana di Trevi/Icónica fonte esculpida do séc. XVIII/0h-24h/0/0/1011
+35/Fortaleza de Maputo/Museu num forte restaurado do século 18/9h-17h/0/0/1009
+49/Fortaleza de Sagres/Forte do séc. 15 em afloramento rochoso/10h-19h/0/0/1013
+42/Fórum Romano/Escavação no centro do Império Romano/9h-19h/0/0/1011
+47/Hofbräuhaus am Platzl/Cervejaria estatal lendária/9h-0h/0/0/1012
+64/Hong Kong Disneyland/Parque temático/10h30-20h15/0/0/1018
+14/Igreja dos Clérigos/Igreja ornamentada com escadaria vermelha/Variável/0/0/1004
+34/Jardim Botânico Tunduru/Jardins tranquilos do século XIX/9h-18h/0/0/1009
+70/Jardim Majorelle/Jardim com plantas exóticas e fontes/9h-20h/0/0/1020
+75/Jardim do mini golfe/Local onde é possível jogar minigolfe/12h-00h/0/0/1021
+53/Khan el Khalili/Imenso mercado de souvenirs e artesanato/0h-24h/0/0/1014
+28/Kremlin de Moscovo/Complexo fortificado no centro da capital russa/10h-17h/0/0/1008
+39/Lago de Atitlán/Lago/0h-24h/0/0/1010
+15/Livraria Lello/Livraria histórica com escadaria vermelha/9h30-19h00/0/0/1004
+11/MAAT/Museu da Matemática/10h-18h/0/0/1002
+44/Marienplatz/Praça central e edifícios históricos/0h-24h/0/0/1012
+26/Masai Mara/Famoso parque do Quénia/0h-24h/1/0/1007
+31/Mausoléu de Lenin/Memorial que abriga o corpo de Lenin/10h-13h/0/0/1008
+71/Mesquita Hassan/Mesquita ornamentada/0h-24h/0/0/1020
+10/Moelas Bar/Bar bastante popular entre jovens universitários/22h-4h/0/0/1001
+27/Monte Quénia/Montanha famosa do Quénia/0h-24h/0/0/1007
+6/Mosteiro dos Jeronimos/Mosteiro do século XVI, Panteão Nacional/10h-18h/0/0/1002
+52/Museu Egípcio/Mais de 5000 anos de história egípcia/9h-18h/0/0/1014
+3/Museu Nacional Machado Castro/Um dos mais importantes museus das Belas Artes português/10h-18h/0/0/1001
+54/Museu Real de Ontário/Diversas exposições culturais e naturais/10h-17h/0/0/1015
+33/Museu de História Natural de Moçambique/Museu de História Natural/8h-15h/0/0/1009
+18/Museu do Amanhã/Museu Futuristico/10h-17h/0/0/1005
+61/Museu do Louvre/Museu de arte com uma vasta coleção/9h-18h/0/0/1017
+65/Ocean Park Hong Kong/Parque temático/10h-21h/0/0/1018
+4/Oceanario/Reserva de vida aquática/10h-18h/0/0/1002
+37/Pacaya/Vulcão,fonte termal e escalada/0h-24h/0/0/1010
+23/Palácio Imperial do Japão/Residência oficial do Imperador do Japão/9h-17h/1/1/1006
+45/Palácio Nymphenburg/Palácio séc. XVIII e museu de carruagens/9h-12h/0/0/1012
+72/Palácio da Bahia/Palácio ornamentado do século XIX/9h-17h/0/0/1020
+16/Palácio da Bolsa/Prédio Neoclássico com eventos e tours/9h-18h/0/0/1004
+58/Parlamento de Budapeste/Edifício do governo de estilo neogótico/8h-18h/0/0/1016
+25/Parque Nacional de Amboseli/Reserva Natural para observação da fauna/6h-21h/0/0/1007
+51/Pirâmides de Gizé/Local das Grandes Pirâmides e da Esfinge/6h-22h/0/0/1014
+13/Ponte D. Luís/Ponte icónica em metal sobre o Douro/Não aplicável/0/0/1004
+9/Ponte Romana do Carvalhal/Ponte tradicional Romana, em bastante bom estado de conservação/Não aplicável/0/0/1003
+66/Ponte da Baía de Sydney/Ponte de aço maciço em arco com mirante/0h-24h/0/0/1019
+69/Porto De Darling/Famoso porto/0h-24h/0/0/1019
+74/Praia da Batata/Praia com formações geológicas/Sem horário/0/0/1021
+68/Praia de Bondi/Praia icónica e cafés na Hall Street/0h-24h/0/0/1019
+50/Praia do Beliche/Praia com falésias e cavernas/0h-24h/0/0/1013
+29/Praça Vermelha/Importante praça e catedral/0h-24h/0/0/1008
+12/Praça do Pelourinho/Praça onde se localiza o Pelourinho de Aljubarrota/Não Aplicável/0/1/1003
+7/Restaurante "O Beirão"/Restaurante tradicional/8h-23h/0/0/1003
+38/Rio Dulce/Rio/0h-24h/0/0/1010
+24/Santuário Meji/Templo xintoísta que é dedicado aos espíritos deificados do Imperador Meiji e sua esposa/0h-24h/0/0/1006
+36/Tikal/Grande parque com ruínas e templos maias/0h-24h/0/0/1010
+21/Tokyo Skytree/Torre de radiodifusão/8h-20h/1/0/1006
+55/Torre CN/Torre icônica com restaurante giratório/9h-23h/0/0/1015
+60/Torre Eiffel/Torre símbolo do século XIX com 324 m de altura/9h-24h/0/0/1017
+22/Torre de Tóquio/Torre de comunicação/9h-23h/1/0/1006
+1/Universidade/Patrimonio cultural/9h-18h/0/2/1001
+63/Victoria Peak/Montanha, caminhada e alpinismo/0h-24h/0/0/1018
+67/Ópera de Sydney/Palco de artes cênicas na Austrália/Depende dos espetáculos/0/0/1019
+end
